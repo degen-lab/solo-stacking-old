@@ -1,3 +1,6 @@
+# Deprecated Repo - Moved to [solo-stacking](https://github.com/degen-lab/solo-stacking)
+This repository is no longer maintained. The latest version is now on the solo-stacking project.
+
 # Tested Flow
 
 solo stacking started:
